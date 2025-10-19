@@ -3,3 +3,4 @@ Note deprecated functions
 Draft staging plan
 Record key rotation plan
 Note shadow test
+Tune garbage collection settings for low latency
